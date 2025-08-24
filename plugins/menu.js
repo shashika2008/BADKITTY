@@ -34,17 +34,17 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *╰──────────●●►*
 
 *╭╼╼╼╼╼╼╼╼╼╼*
-*├ 1 • MAIN*
-*├ 2 • SEARCH*
-*├ 3 • DOWNLOAD*
-*├ 4 • GROUP*
-*├ 5 • OWNER*
-*├ 6 • FUN*
+*├ ☘️1 • MAIN*
+*├ 🍃2 • SEARCH*
+*├ 🌿3 • DOWNLOAD*
+*├ 🌱4 • GROUP*
+*├ 🌾5 • OWNER*
+*├ 🍀6 • FUN*
 *╰╼╼╼╼╼╼╼╼╼╼*
 
 _*🌟 Reply with the Number you want to select*_
 
-> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname*`;
+> *𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼*`;
 
         const vv = await conn.sendMessage(from, { image: { url: config.MENU_IMG}, caption: desc }, { quoted: mek });
 
@@ -65,18 +65,18 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━─〔 ⚡ **Commands** ⚡ 〕━━╮  
-┃ ◈ **alive**
-┃ ◈ **menu**  
-┃ ◈ **menu2**  
-┃ ◈ **system**  
-┃ ◈ **ping**  
-┃ ◈ **runtime**
-┃ ◈ **jid**
+┃ ◈🌸 **alive**
+┃ ◈🌸 **menu**  
+┃ ◈🌸 **menu2**  
+┃ ◈🌸 **system**  
+┃ ◈🌸 **ping**  
+┃ ◈🌸 **runtime**
+┃ ◈🌸 **jid**
 ╰─━─━─━─━─━─━─━─━─╯  
 
 📊 **Total Commands in MAIN:** 7  
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 Your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**  
 
 `);
 
@@ -89,13 +89,13 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━〔 ⚡ **Commands** ⚡ 〕━──━╮  
-┃ ◈ **yts**  
-┃ ◈ **image** 
+┃ ◈💮 **yts**  
+┃ ◈💮 **image** 
 ╰─━─━─━━─━─━─━─━─━─╯  
 
 📊 **Total Commands in SEARCH:** 2
 
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**
 `);
                         break;
                     case '3':               
@@ -105,23 +105,23 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━━〔 ⚡ **Commands** ⚡ 〕━─━━╮  
-┃ ◈ **apk**  
-┃ ◈ **twitter**  
-┃ ◈ **gdrive**  
-┃ ◈ **mediafire**  
-┃ ◈ **fb**  
-┃ ◈ **play**
-┃ ◈ **play2**  
-┃ ◈ **video**   
-┃ ◈ **video2**  
-┃ ◈ **yta**  
-┃ ◈ **tiktok**
-┃ ◈ **ytmp3**
+┃ ◈🌺 **apk**  
+┃ ◈🌺 **twitter**  
+┃ ◈🌺 **gdrive**  
+┃ ◈🌺 **mediafire**  
+┃ ◈🌺 **fb**  
+┃ ◈🌺 **play**
+┃ ◈🌺 **play2**  
+┃ ◈🌺 **video**   
+┃ ◈🌺 **video2**  
+┃ ◈🌺 **yta**  
+┃ ◈🌺 **tiktok**
+┃ ◈🌺 **ytmp3**
 ╰─━─━─━─━─━─━─━─━─━─╯  
 
 📊 **Total Commands in DOWNLOAD:** 12
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**  
 
 `);
                     
@@ -133,32 +133,32 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━──━〔 ⚡ **Commands** ⚡ 〕━─━╮  
-┃ ◈ **mute**  
-┃ ◈ **unmute**  
-┃ ◈ **promote**  
-┃ ◈ **demote**  
-┃ ◈ **del**  
-┃ ◈ **add**  
-┃ ◈ **admins**  
-┃ ◈ **groupdesc**  
-┃ ◈ **groupinfo**  
-┃ ◈ **gname**  
-┃ ◈ **setsubject**  
-┃ ◈ **tagall**  
-┃ ◈ **hidetag**  
-┃ ◈ **unlock**  
-┃ ◈ **lock**
-┃ ◈ **gname**  
-┃ ◈ **join**  
-┃ ◈ **leave**  
-┃ ◈ **invite**  
-┃ ◈ **tagadmin**  
+┃ ◈🌼 **mute**  
+┃ ◈🌼 **unmute**  
+┃ ◈🌼 **promote**  
+┃ ◈🌼 **demote**  
+┃ ◈🌼 **del**  
+┃ ◈🌼 **add**  
+┃ ◈🌼 **admins**  
+┃ ◈🌼 **groupdesc**  
+┃ ◈🌼 **groupinfo**  
+┃ ◈🌼 **gname**  
+┃ ◈🌼 **setsubject**  
+┃ ◈🌼 **tagall**  
+┃ ◈🌼 **hidetag**  
+┃ ◈🌼 **unlock**  
+┃ ◈🌼 **lock**
+┃ ◈🌼 **gname**  
+┃ ◈🌼 **join**  
+┃ ◈🌼 **leave**  
+┃ ◈🌼 **invite**  
+┃ ◈🌼 **tagadmin**  
 ╰─━─━─━─━─━─━─━─━─━━─╯  
 
 📊 **Total Commands in GROUP:** 20  
 
 
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 Your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**  
 `);
                     break;
                     case '5':               
@@ -168,21 +168,21 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━〔 🍿 **Commands** 🍿 〕━──━╮ 
-┃ ◈ **shutdown**  
-┃ ◈ **alive**  
-┃ ◈ **ping**  
-┃ ◈ **clearchats**  
-┃ ◈ **block**
-┃ ◈ **unblock**
-┃ ◈ **repo**
-┃ ◈ **owner**
-┃ ◈ **owner2**
+┃ ◈❄️ **shutdown**  
+┃ ◈❄️ **alive**  
+┃ ◈❄️ **ping**  
+┃ ◈❄️ **clearchats**  
+┃ ◈❄️ **block**
+┃ ◈❄️ **unblock**
+┃ ◈❄️ **repo**
+┃ ◈❄️ **owner**
+┃ ◈❄️ **owner2**
 ╰─━━─━─━──━─━─━━─━─╯  
 
 📊 **Total Commands in Owner:** 9
 
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**  
 
 `);
                     break;
@@ -193,22 +193,22 @@ _*🌟 Reply with the Number you want to select*_
 ╚════════════════════════╝  
 
 ╭─━〔 🍿 **Commands** 🍿 〕━──━╮ 
-┃ ◈ **joke**  
-┃ ◈ **flirt**  
-┃ ◈ **truth**  
-┃ ◈ **dare**  
-┃ ◈ **fact**
-┃ ◈ **pickupline**
-┃ ◈ **character**
-┃ ◈ **repeat**
-┃ ◈ **spam**
-┃ ◈ **readmore**
+┃ ◈🌑 **joke**  
+┃ ◈🌒 **flirt**  
+┃ ◈🌓 **truth**  
+┃ ◈🌔 **dare**  
+┃ ◈🌔 **fact**
+┃ ◈🌕 **pickupline**
+┃ ◈🌖 **character**
+┃ ◈🌗 **repeat**
+┃ ◈🌘 **spam**
+┃ ◈🌑 **readmore**
 ╰─━━─━─━──━─━─━━─━─╯  
 
 📊 **Total Commands in Owner:** 10
 
  
-> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 your Botname**  
+> 💡 **𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼**  
 
 `);
                        
