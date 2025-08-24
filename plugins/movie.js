@@ -1,5 +1,3 @@
-
-
 const axios = require('axios');
 const { cmd } = require('../command');
 const config = require('../config'); // Ensure your API key is in config
@@ -27,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 Botname MOVIE SERCH🎬*
+*🎬 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼 MOVIE SERCH🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -43,14 +41,14 @@ cmd({
 *ᴀᴡᴀʀᴅꜱ:* ${data.Awards}
 *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
 
-> *powered by ur botname👑*
+> *powered by 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼👑*
 `;
 
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> CREATED BY your  name`
+            caption: `${movieInfo}\n> CREATED BY SHASHIKA DILSHAN`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);
