@@ -30,7 +30,9 @@ const url = data.url
     
     
 let desc = `
-*⦁ MUSⵊC DOWNLOADⵊNG ⦁*
+.·:·.┏━⋅━⋅━━⋅༻❁༺⋅━━⋅━⋅━┓:·.
+ .༻♡  Music DOWNLOADⵊNG..     ♡༺.
+.·:·.╰━⋅━⋅━.· ✿༻༺✿·.━⋅━⋅━╯  :·.
 
 🎵 *MUSⵊC FOUND!* 
 
@@ -43,7 +45,7 @@ let desc = `
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
 
-> *© Powered by your RUDRAKSHA* 
+> *© Powered by  𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -82,7 +84,9 @@ const url = data.url
     
     
 let desc = `
-* ⦁ VⵊDEO DOWNLOADⵊNG ⦁ *
+.·:·.┏━⋅━⋅━━⋅༻❁༺⋅━━⋅━⋅━┓:·.
+ .༻♡  VⵊDEO DOWNLOADⵊNG..     ♡༺.
+.·:·.╰━⋅━⋅━.· ✿༻༺✿·.━⋅━⋅━╯  :·.
 
 🎥 *VⵊDEO FOUND!* 
 
@@ -95,7 +99,7 @@ let desc = `
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
 
-> *© powered by RUDRAKSHA*
+> *© powered by 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
