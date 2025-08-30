@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/shashika-bot/RUDRAKSHA-MD/fork"><img title="RUDRAKSHA-MD" src="https://img.shields.io/badge/FORK-RUDRAKSHA-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/shashika-bot/BADKITTY/fork"><img title="BADKITTY" src="https://img.shields.io/badge/FORK-BADKITTY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -39,12 +39,12 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fshashika-bot%2FRUDRAKSHA-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fshashika-bot%2FBADKITTY) 
    
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shashika-bot/RUDRAKSHA-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shashika-bot/BADKITTY.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
