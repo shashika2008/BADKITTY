@@ -8,7 +8,7 @@
 <img src = "https://raw.githubusercontent.com/shashika-bot/Bad-kitty-Media/refs/heads/main/Picsart_25-08-24_21-34-44-518.jpg"  width="500" height="400">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=RUDRAKSHA-MD+MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=🌸BADKITTY+MD+WHATSAPP+BOT+MD" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
