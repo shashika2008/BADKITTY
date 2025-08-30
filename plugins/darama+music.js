@@ -45,7 +45,7 @@ let desc = `
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
 
-> *© Powered by  𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼* 
+> *© Powered by  ꧁𓊈𒆜 ßÄÐkï††¥ 𒆜𓊉꧂* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -99,7 +99,7 @@ let desc = `
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
 
-> *© powered by 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼*
+> *© powered by ꧁𓊈𒆜 ßÄÐkï††¥ 𒆜𓊉꧂*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
