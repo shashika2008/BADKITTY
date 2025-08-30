@@ -37,7 +37,7 @@ cmd({
           'image': {
             'url': _0x58b5b7.images_url
           },
-          'caption': "*© 𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼*" 
+          'caption': "*© 𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 𝐁𝐀𝐃𝐊𝐈𝐓𝐓𝐘*" 
         }, {
           'quoted': _0x59fdb9
         });
@@ -93,9 +93,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *💗 Image ${i + 1} from your search! 💗*
 
- *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 your Botname 👾*
+ *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 𝐁𝐀𝐃𝐊𝐈𝐓𝐓𝐘 👾*
 
-> 🥷🏽 Your Botname 🥷🏽`
+> 🥷🏽 BΛDKIƬƬY 🥷🏽`
 }, { quoted: mek });
 }
 
