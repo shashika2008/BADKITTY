@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼 MOVIE SERCH🎬*
+*🎬 BΛDKIƬƬY 𓆉  𓆉 MOVIE SERCH🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -41,7 +41,7 @@ cmd({
 *ᴀᴡᴀʀᴅꜱ:* ${data.Awards}
 *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
 
-> *powered by 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼👑*
+> *powered by ꧁𓊈𒆜 ßÄÐkï††¥ 𒆜𓊉꧂*
 `;
 
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
