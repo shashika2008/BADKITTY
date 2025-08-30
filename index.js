@@ -48,7 +48,7 @@ const ownerNumber = ['94705104830']
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("MALVIN-XD~", '');
+const sessdata = config.SESSION_ID.replace("𝘽𝘼𝘿𝙆𝙄𝙏𝙏𝙔~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -62,7 +62,7 @@ const port = process.env.PORT || 9090;
 
 
 async function connectToWA() {
-console.log("CONNECTING 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼-MD 🧬...");
+console.log("CONNECTING 𝘽𝘼𝘿𝙆𝙄𝙏𝙏𝙔 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -90,7 +90,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('𝐁𝐀𝐃𝐊𝐈𝐓𝐓𝐘 CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
 > *➺ 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼-MD ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Shashika✅*
@@ -99,7 +99,7 @@ let up = `*╭──────────────●●►*
 
 *https://whatsapp.com/channel/0029VbB9iIPK0IBaj7EDtq1s*
 
-*𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼 ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
+*𝐁𝐀𝐃𝐊𝐈𝐓𝐓𝐘 ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
 conn.sendMessage(conn.user.id, { image: { url: config.MENU_IMG }, caption: up })
@@ -269,7 +269,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, 𝙍𝙐𝘿𝙍𝘼𝙆𝙎𝙃𝘼-MD STARTED ✅");
+res.send("HEY, 𝐁𝐀𝐃𝐊𝐈𝐓𝐓𝐘 STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
