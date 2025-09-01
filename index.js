@@ -49,7 +49,7 @@ const ownerNumber = ['94705104830']
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace("𝘽𝘼𝘿𝙆𝙄𝙏𝙏𝙔~", '');
-const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
+const filer = File.fromURL(`https://mega.nz/file/GIMBzQyK#NMZFFqz1l8RjQa3Jm5CCrb_sykT2d_CrpMibGdoq7qk`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
