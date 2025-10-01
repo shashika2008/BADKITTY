@@ -43,6 +43,12 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
+// Ensure sessions directory exists
+if (!fs.existsSync(__dirname + '/sessions')) {
+    fs.mkdirSync(__dirname + '/sessions');
+}
+
+
 const ownerNumber = ['94705104830']
 
 //===================SESSION-AUTH============================
